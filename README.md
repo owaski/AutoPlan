@@ -1,2 +1,2 @@
 # AutoPlan
-The code repo of paper "AutoPlan"
+The code repo of paper "AutoPlan". Under development.
